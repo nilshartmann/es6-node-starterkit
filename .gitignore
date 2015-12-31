@@ -1,0 +1,8 @@
+node_modules/
+dist/
+
+# https://www.jetbrains.com/webstorm/help/managing-projects-under-version-control.html
+.idea/workspace.xml
+
+npm-debug.log
+npm-debug.log.*
